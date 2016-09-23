@@ -1,0 +1,82 @@
+{
+    "74838d567aca4c2b87bcd6399b603706": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "width": "70%"
+        },
+        "views": []
+    },
+    "b39e9b94c2ce453ea73acb978371f7d8": {
+        "model_name": "IntSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "layout": "IPY_MODEL_74838d567aca4c2b87bcd6399b603706",
+            "description": "n",
+            "max": 14
+        },
+        "views": []
+    },
+    "4aa925ddf6634d96bd5b63264cdc1771": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {},
+        "views": []
+    },
+    "9c4d767c7ceb46d29b9ac0ab9902ed2b": {
+        "model_name": "BoxModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "children": [
+                "IPY_MODEL_b39e9b94c2ce453ea73acb978371f7d8"
+            ],
+            "layout": "IPY_MODEL_4aa925ddf6634d96bd5b63264cdc1771",
+            "_dom_classes": [
+                "widget-interact"
+            ]
+        },
+        "views": []
+    },
+    "b42da8db61fe4ae5aec3858897e0be0b": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "width": "70%"
+        },
+        "views": []
+    },
+    "9580134451c5481ba05fa0ea75038ded": {
+        "model_name": "IntSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "layout": "IPY_MODEL_b42da8db61fe4ae5aec3858897e0be0b",
+            "description": "n",
+            "max": 14
+        },
+        "views": []
+    },
+    "d106ad10f12e4cefa6fe5490e540e344": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {},
+        "views": []
+    },
+    "bb807869087241408567246c41c6a9e2": {
+        "model_name": "BoxModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "children": [
+                "IPY_MODEL_9580134451c5481ba05fa0ea75038ded"
+            ],
+            "layout": "IPY_MODEL_d106ad10f12e4cefa6fe5490e540e344",
+            "_dom_classes": [
+                "widget-interact"
+            ]
+        },
+        "views": [
+            {
+                "cell_index": 19
+            }
+        ]
+    }
+}
